@@ -1,4 +1,0 @@
-difficulty,algorithm,success_rate_last_100,avg_steps_success_last_100,avg_reward_last_100,avg_invalid_moves_last_100,training_time_seconds
-easy,DQN,100.0,11.49,85.28,0.47,32.911779165267944
-medium,DQN,100.0,15.46,82.12,0.38,66.13180899620056
-hard,DQN,100.0,19.98,75.62,0.6,130.33784747123718

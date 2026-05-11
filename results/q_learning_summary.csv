@@ -1,4 +1,0 @@
-difficulty,algorithm,success_rate_last_100,avg_steps_success_last_100,avg_reward_last_100,avg_invalid_moves_last_100,training_time_seconds
-easy,Q-learning,100.0,11.12,86.28,0.4,0.08377480506896973
-medium,Q-learning,100.0,15.65,80.76,0.51,0.1157228946685791
-hard,Q-learning,100.0,20.06,75.9,0.56,0.35655999183654785
